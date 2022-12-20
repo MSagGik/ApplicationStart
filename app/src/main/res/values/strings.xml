@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ApplicationStart</string>
+    <string name="header1">ПРИЛОЖЕНИЕ ПО РАБОТЕ С ФРАГМЕНТОМ</string>
+    <string name="header2">Сообщение о состоянии чек-бокса:</string>
+    <string name="header3">Чек-бокс не выбран</string>
+    <string name="header4">Фрагмент:</string>
+    <string name="button1">ИЗМЕНИТЬ СОСТОЯНИЕ ЧЕК-БОКСА</string>
+    <string name="button2">ЗАПИСАТЬ</string>
+    <string name="fragment">Включить/выключить чек-бокс</string>
+</resources>
